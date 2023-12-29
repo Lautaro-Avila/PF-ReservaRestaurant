@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TrabajoFinalRestaurante.props" />
+</Project>
